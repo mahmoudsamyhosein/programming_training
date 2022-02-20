@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+    background-color: burlywood;
+
+}
+h2{
+    color: #000;
+    background-color: #fff;
+    border-color: 20px;
+}
+h3{
+    color: rgb(230, 199, 167);
+    background-color: rgb(567, 565, 56);
+}
+/* التعامل مع النصوص */
+h4{
+    color:blueviolet;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 5px 3px 2px rgb(212, 206, 206);
+    direction: rtl;
+    text-indent: 3cm;
+}

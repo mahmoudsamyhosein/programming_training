@@ -1,0 +1,41 @@
+/* في حالة كان ال selector يخص element عام */
+h2{
+    color:brown;
+    background-color: blue;
+}
+/* في حالة كان ال selector يخص class*/
+.new-class{
+    color: aqua;
+    background-color: crimson;
+}
+/* في حالة كان ال selector يخص  وهو فريد لا يتكرر ID*/
+#title{
+    color: chartreuse;
+    background-color: lightseagreen;
+}
+h4{
+    color:brown;
+    background-color: blue;
+}
+/* في حالة كان ال selector يخص  وهو فريد لا يتكرر ID h4 */
+h4#newh4{
+    color: orange;
+    background-color: royalblue;
+}
+/* في حالة كان ال selector يخص  وهو فريد لا يتكرر class h4 */
+h4.alfa{
+    color: dodgerblue;
+    background-color: black;
+    
+}
+/*محددات فرعية */
+
+div > h1{
+    color:yellowgreen;
+    background-color: white;
+}
+input[type="text"]{
+    border-color: darkgoldenrod;
+    color: orangered;
+    height: max-content;
+}
