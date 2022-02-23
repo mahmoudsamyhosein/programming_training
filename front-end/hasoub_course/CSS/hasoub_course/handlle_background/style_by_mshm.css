@@ -1,0 +1,7 @@
+.content{
+    background-image: url(laravel9.png);
+    background-position: center;
+    background-repeat: repeat-y;
+    height: 1000px;
+    width: 900px;
+}

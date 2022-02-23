@@ -1,0 +1,26 @@
+/*
+- الهامش margin وهو يكون بين كل عنصر وعنصر أخر 
+- padding الحاشية وهي بين المحتوي وبين الأطار 
+-الاطار border وهو الحافه الخارجية للعنصر 
+*/
+.content{
+    width: 200px;
+    height: 400px;
+    background-color: darkgreen;
+    margin-right: 20px;
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+
+}
+.first{
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+}
+.last{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(128, 128, 128);
+}

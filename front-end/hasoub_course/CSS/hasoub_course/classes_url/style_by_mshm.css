@@ -1,0 +1,20 @@
+/* sudo classes الأصناف الزائفة والروابط */ 
+a:link{
+    color:brown;
+    text-decoration: underline;
+    background-color: rgb(77, 70, 68);
+
+}
+a:visited{
+    color:black;
+    text-transform: uppercase;
+}
+a:hover{
+    color:aqua;
+    text-decoration: wavy;
+    background-color: darkgreen;
+}
+a:active{
+    color:coral;
+    
+}
